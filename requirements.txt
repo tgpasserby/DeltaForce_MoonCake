@@ -1,0 +1,14 @@
+PyQt5==5.15.11
+pywin32==311
+keyboard==0.13.5
+PyAutoGUI==0.9.54
+pyperclip==1.9.0
+
+numpy==2.2.3
+opencv-python==4.11.0.86
+pillow==11.1.0
+ImageHash==4.3.2
+paddleocr==2.10.0
+paddlepaddle==3.0.0
+
+ipython==8.30.0
