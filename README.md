@@ -91,26 +91,6 @@ python main.py
 3. 根据需要切换任务标签页并设置参数。
 4. 点击开始，或使用设置页中的快捷键。
 
-## 配置文件
-
-程序支持从 UI 保存和加载 JSON 配置。示例文件见：
-
-```text
-config.example.json
-```
-
-你可以在程序中点击“加载配置”选择该文件，也可以将它复制为：
-
-```text
-config_bullets/config.json
-```
-
-快捷键配置由程序单独保存到：
-
-```text
-config_bullets/hotkeys.json
-```
-
 ## 目录说明
 ```text
 config_bullets/          本地配置目录

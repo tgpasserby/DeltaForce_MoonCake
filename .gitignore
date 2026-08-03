@@ -29,7 +29,6 @@ htmlcov/
 build/
 dist/
 *.egg-info/
-*.spec
 
 # 日志和临时文件
 *.log
@@ -44,3 +43,4 @@ Thumbs.db
 *.onnx
 *.pt
 *.pth
+/更新手册.md
